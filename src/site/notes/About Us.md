@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-us/"}
+{"dg-publish":true,"permalink":"/about-us/","noteIcon":"1"}
 ---
 
 ## Meet the Peeps
