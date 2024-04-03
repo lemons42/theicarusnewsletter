@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/become-a-poetry-contributor/"}
+{"dg-publish":true,"permalink":"/become-a-poetry-contributor/","noteIcon":"1"}
 ---
 
 ## About becoming a contributor
