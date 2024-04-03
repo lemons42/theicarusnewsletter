@@ -12,6 +12,7 @@ You might've noticed that we take (almost) everything. While we encourage people
 - No advocation for violence
 - No hate towards a specific person or group of people (we don't mind political poetry, but please do not advocate for violence towards anybody)
 - Limited usage of expletives (again, especially if there's not a point to it)
+
 We reserve the right to deny poetry for any reason, including for breaking our guidelines. We strive to make our newsletter accessible to everyone! If you're not sure if your poetry breaks any of our guidelines, still feel free to send it in! We'll let you know what we think.
 
 Oh and the best part of this all? Publishing with us is totally free!
