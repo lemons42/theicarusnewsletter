@@ -4,7 +4,7 @@
 
 ![Untitled_Artwork 17.png](/img/user/Untitled_Artwork%2017.png)
 <div align=center>Welcome to The Icarus Newsletter, a local Grand Rapids poetry newsletter dedicated towards helping people spread their wings and publish their poetry!</div>
-test
+
 We send out a monthly newsletter with curated local poetry from all ages and experiences. Are you interested in reading more poetry, or want to support local artists? Are you looking to have your poetry read by other people? You're in the right place! Click one of the links below to get started.
 ## Navigation
 - [[Become a Poetry Contributor\|Become a Poetry Contributor]] <-- go here if you want to publish your poetry with us or want to learn more
