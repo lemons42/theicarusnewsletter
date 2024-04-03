@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-home/","hide":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-home/","hide":"true","tags":["gardenEntry"]}
 ---
 
 ![Untitled_Artwork 17.png](/img/user/Untitled_Artwork%2017.png)
