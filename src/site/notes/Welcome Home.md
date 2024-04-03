@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/welcome-home/","hide":"true","tags":["gardenEntry"],"noteIcon":"1"}
 ---
 
-![Free  Clothing, Bookshelf, Poster Background Images, Apparel Background Photo Background PNG and Vectors.jpg](/img/user/Free%20%20Clothing,%20Bookshelf,%20Poster%20Background%20Images,%20Apparel%20Background%20Photo%20Background%20PNG%20and%20Vectors.jpg)
-<div align=center>Welcome to The Icarus Newsletter, a local Grand Rapids poetry newsletter dedicated towards helping people spread their wings and publish their poetry!</div>
+<div align=center><b>Welcome to The Icarus Newsletter, a local Grand Rapids poetry newsletter dedicated towards helping people spread their wings and publish their poetry!</b></div>
 
+![Free  Clothing, Bookshelf, Poster Background Images, Apparel Background Photo Background PNG and Vectors.jpg](/img/user/Free%20%20Clothing,%20Bookshelf,%20Poster%20Background%20Images,%20Apparel%20Background%20Photo%20Background%20PNG%20and%20Vectors.jpg)
 We send out a monthly newsletter with curated local poetry from all ages and experiences. Are you interested in reading more poetry, or want to support local artists? Are you looking to have your poetry read by other people? You're in the right place! Click one of the links below to get started.
 
 We're also just starting up, but more will be added here as time goes on! Stick around or follow us on our [[Contact\|instagram]] for updates.
