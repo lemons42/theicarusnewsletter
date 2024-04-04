@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/about-us/","noteIcon":"1"}
 ---
 
+## Our Mission
+We hope to be able to inspire the Grand Rapids poetry scene, of all ages, to get their works out in the world. We also want to encourage people to seek out local poetry and support the local community.
 ## Meet the Peeps
 ### Miller
 ![IMG_0563.jpg](/img/user/IMG_0563.jpg)
